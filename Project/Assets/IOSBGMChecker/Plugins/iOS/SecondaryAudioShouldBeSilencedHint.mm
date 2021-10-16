@@ -1,4 +1,4 @@
-#import <AVFoundation/AVFoundation.h>
+﻿#import <AVFoundation/AVFoundation.h>
 
 extern "C"
 {

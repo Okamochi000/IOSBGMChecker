@@ -1,9 +1,9 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.UI;
 using System.Runtime.InteropServices;
 
 /// <summary>
-/// ƒoƒbƒNƒOƒ‰ƒEƒ“ƒhƒ~ƒ…[ƒWƒbƒN‚ªÄ¶’†‚Å‚ ‚é‚©‚ÌŠm”F
+/// ãƒãƒƒã‚¯ã‚°ãƒ©ã‚¦ãƒ³ãƒ‰ãƒŸãƒ¥ãƒ¼ã‚¸ãƒƒã‚¯ãŒå†ç”Ÿä¸­ã§ã‚ã‚‹ã‹ã®ç¢ºèª
 /// </summary>
 public class BGMPlayingCheker : MonoBehaviour
 {
